@@ -1,10 +1,10 @@
 {
-  "name": "nodejsexamples",
-  "version": "99.0.0",
+  "name": "riwebapp",
+  "version": "1.0.0",
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://100.25.167.114:8081/repository/npmuser/"
+    "registry": "http://34.224.95.195:8081/repository/npmuser/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
