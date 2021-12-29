@@ -4,7 +4,7 @@
 
     <groupId>riwebapp</groupId>
     <artifactId>riwebapp</artifactId>
-    <version>3.0</version>
+    <version>4.0</version>
     <packaging>war</packaging>
 
     <name>TomcatMavenApp</name>
