@@ -1,6 +1,7 @@
 {
   "name": "riwebapp",
-  "version": {"1.0.0","build": "5"},
+  "version": "1.0.0",
+  "build": "8",
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
