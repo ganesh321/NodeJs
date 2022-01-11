@@ -1,6 +1,6 @@
 {
   "name": "riwebapp",
-  "version": "$BUILD_NUMBER",
+  "version": "$BUILD_NUMBER.0.0",
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
