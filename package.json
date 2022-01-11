@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
+  "publish:pact": "node ./scripts/publish.js"
   "publishConfig": {
     "registry": "http://54.236.48.195:8081/repository/npmuser/"
   },
