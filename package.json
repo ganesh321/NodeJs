@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://54.236.48.195:8081/repository/npmuser/"
+    "registry": "http://52.91.151.126:8081/repository/npm-group1/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
