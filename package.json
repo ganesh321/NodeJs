@@ -12,7 +12,7 @@
     "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1",
      "sonar": "node sonar-project.js",
-    "install-offline": "npm install --registry=http://10.38.50.20:8081/repository/npm-registry/"
+    "install-offline": "npm install --registry=http://52.91.151.126:8081/repository/npm-registry/"
   },
   "dependencies": {
     "cfenv": "^1.1.0",
