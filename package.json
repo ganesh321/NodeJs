@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://52.91.151.126:8081/repository/npm-private/"
+    "registry": "http://100.24.255.244:8081/repository/npm-private/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
@@ -12,7 +12,7 @@
     "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1",
      "sonar": "node sonar-project.js",
-    "install-offline": "npm install --registry=http://52.91.151.126:8081/repository/npm-registry/"
+    "install-offline": "npm install --registry=http://100.24.255.244:8081/repository/npm-registry/"
   },
   "dependencies": {
     "cfenv": "^1.1.0",
